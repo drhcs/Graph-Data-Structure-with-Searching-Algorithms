@@ -1,1 +1,1 @@
-# Graph-Data-Structure-with-Searching-Algorithms
+# Searching-Algorithms-and-Graph-Data-Structure
